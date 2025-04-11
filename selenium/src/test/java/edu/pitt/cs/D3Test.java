@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.junit.runners.MethodSorters;
 import static org.hamcrest.MatcherAssert.assertThat;
 import java.time.Duration;
